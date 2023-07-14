@@ -10,7 +10,7 @@ import TopRated from "./topRated/TopRated";
 const Home = () => {
     return (
         <div className="homePage">
-            <HeroBanner />
+            {/* <HeroBanner /> */}
             <Trending />
             <Popular />
             <TopRated />
